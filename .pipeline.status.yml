@@ -1,0 +1,4 @@
+spywhere/pipeline-test-step-2a:
+  master:
+    status: true
+    timestamp: 1484429978458
